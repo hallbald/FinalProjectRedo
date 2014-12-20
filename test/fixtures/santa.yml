@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  color_main: MyString
+  number_in_house: 1
+  location_in_house: MyText
+  height: 1
+
+two:
+  color_main: MyString
+  number_in_house: 1
+  location_in_house: MyText
+  height: 1
